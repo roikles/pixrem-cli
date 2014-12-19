@@ -17,6 +17,8 @@
   ],
   "author": "Rory Ashford <rory@roikles.com> (http://github.com/roikles)",
   "license": "MIT",
+  "homepage": "http://github.com/roikles/pixrem-cli",
+  "bugs": "http://github.com/roikles/pixrem-cli/issues",
   "dependencies": {
     "chalk": "^0.5.1",
     "commander": "^2.5.1",

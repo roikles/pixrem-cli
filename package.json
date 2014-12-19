@@ -1,0 +1,25 @@
+{
+  "name": "pixrem-cli",
+  "version": "1.0.0",
+  "description": "Pixrem command line tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pixrem": "pixrem-cli.js"
+  },
+  "keywords": [
+    "rem",
+    "fallback",
+    "cli",
+    "commandline"
+  ],
+  "author": "Rory Ashford <rory@roikles.com> (http://github.com/roikles)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "commander": "^2.5.1",
+    "pixrem": "^1.0.1"
+  }
+}

@@ -4,7 +4,7 @@ var program = require('commander');
 var chalk = require('chalk');
 
 program
-    .version('1.0.1')
+    .version('1.0.2')
     .option('-i, --input [path]', 'relative path to the stylesheet to process')
     .option('-o, --output [path]', 'the destination to save')
     .option('-r, --rootvalue [rootvalue]', 'Rem root value e.g. 16px <optional> Default: 16px')

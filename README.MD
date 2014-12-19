@@ -1,6 +1,7 @@
 # Pixrem CLI
 
 A command line wrapper for the excellent [pixrem module](https://www.npmjs.com/package/pixrem).
+Adds pixel fallbacks for rem units to support IE<9.
 
 ## Install
 
